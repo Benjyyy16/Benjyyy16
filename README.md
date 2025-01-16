@@ -14,19 +14,43 @@
 #  ✨ If you can imagine it, you can program it.
 
 
-**About Me!**
+!**About Me!**
+I am a Software Engineering student at the Bernardo O'Higgins University.
+I am good at programming languages ​​like Python, Java and others.
+I love learning and creating something new and creative.
 
-- Soy estudiante de Ingeniería de Software en la Universidad Universidad Bernardo O'Higgins Soy bueno en lenguajes de programación como Python,Java y otros.... Me encanta aprender y crear algo nuevo y creativo
+" 👨‍💻I am currently learning...
++ Cyber ​​Security in the Cloud
++ Exploiting Web VULNERABILITIES
+🕷️Estoy deseando colaborar en proyectos de código abierto.
 
-"Actualmente estoy aprendiendo...
-+ Cyber Security en la nube
-+ Explotar VULNERABILIDADES Web
-Estoy deseando colaborar en proyectos de código abierto.
-**Fuera de la computadora**
+💻**Fuera de la computadora**💻
 🎯 me gustan los juegos competitivos rank max(fortnite,valorant,csgo.cs2),
 💪🏼 atleta hibrido combino 🦍GYM + boxeo🥊
 📫 Contáctame en: benjyycontactme@gmail.com
+````
 
+<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+
+- 💻 &nbsp;
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+- ⚙️ &nbsp;
+
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+- 🔧 &nbsp;
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+<br/>
 
 
 
