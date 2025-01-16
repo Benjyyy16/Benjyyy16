@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=benjyyy16&style=flat-square&color=blue" alt=""/> <img alt="GitHub followers" src="https://img.shields.io/github/followers/benjyyy16?label=Follow%20Me&style=social color=red" />
   </div>
     <!-- Profile Picture -->
-<img align="left" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDcxMDNpYTFjd25jcWdoeWxtbWNubmkzMWZtYzB6M2pjM2ZrNHRnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"/>
+<img align="left" height="150" src="https://i.gifer.com/Z5Si.gif"/>
 
   <!-- Description -->
   ````diff
