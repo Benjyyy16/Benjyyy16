@@ -24,10 +24,10 @@ I love learning and creating something new and creative.
 + Exploiting Web VULNERABILITIES
 🕷️Estoy deseando colaborar en proyectos de código abierto.
 
-💻**Fuera de la computadora**💻
-🎯 me gustan los juegos competitivos rank max(fortnite,valorant,csgo.cs2),
-💪🏼 atleta hibrido combino 🦍GYM + boxeo🥊
-📫 Contáctame en: benjyycontactme@gmail.com
+💻**Outside the computer**💻
+🎯 I like rank max competitive games (fortnite,valorant,csgo.cs2)
+💪🏼 Hybrid athlete I combine 🦍GYM + boxing🥊
+📫 Contact me at: benjyycontactme@gmail.com
 ````
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
