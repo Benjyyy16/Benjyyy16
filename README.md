@@ -27,7 +27,7 @@ I love learning and creating something new and creative.
 💻**Outside the computer**💻
 🎯 I like rank max competitive games (fortnite,valorant,csgo.cs2)
 💪🏼 Hybrid athlete I combine 🦍GYM + boxing🥊
-📫 Contact me at: benjyycontactme@gmail.com
+
 ````
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
