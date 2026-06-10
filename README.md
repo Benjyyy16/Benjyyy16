@@ -1,6 +1,6 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> hello, &lt;Users/&gt;! My Name is Benjamin
 
-   <img src="https://komarev.com/ghpvc/?username=benjyyy16&style=flat-square&color=blue" alt=""/> </div>   [![GitHub followers](https://img.shields.io/github/followers/Benjyyy16.svg?style=social&label=Followers)](https://github.com/Benjyyy16?tab=followers)
+   <img src="https://komarev.com/ghpvc/?username=benjyyy16&style=flat-square&color=blue" alt=""/> </div>  
 
    
 <img align="left" height="150" src="https://i.gifer.com/Z5Si.gif"/>
