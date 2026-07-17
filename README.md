@@ -1,4 +1,4 @@
-# Hi, I'm Benjamin Aguilar 👋
+# Hi, I'm Benjamin Aguilar 👋💻🤓
 
 ### Full-Stack Developer · Odoo · Cloud Infrastructure · Cybersecurity
 
