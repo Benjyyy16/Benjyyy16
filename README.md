@@ -28,6 +28,11 @@ I build reliable business applications, API integrations, and web platforms. Bas
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
+![Conductor](https://img.shields.io/badge/Conductor-Orchestration-6C47FF?style=flat-square)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-AI-8B5CF6?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-AI_IDE-7C3AED?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ## Featured projects
 
