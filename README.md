@@ -33,29 +33,11 @@ I build digital products end to end—from user interfaces and backend services 
 
 ## Featured projects
 
-### [TalentLink (UBOHub Connect)](https://github.com/Benjyyy16/ubohub-connect)
-
-A SaaS product that helps students showcase their talent and connect with recruiters through real project opportunities.
-
-### Voltito · Private project
-
-Product and systems architecture for a climate-tech platform centered on smarter energy use.
-
-### Regatea · Private project
-
-An e-commerce comparison platform taken from development to production on self-managed web infrastructure.
-
-### CarWorkChile · Hackathon project
-
-A driving education experience created during a hackathon with Automóvil Club de Chile.
-
-### Odoo API Monitor · Private project
-
-An Odoo monitoring solution for API health checks, structured logs, metrics, alerts, and resilient integrations.
-
-### Odoo ↔ Bsale Connector · Private project
-
-An integration that automates synchronization workflows between Odoo and Bsale while keeping business operations traceable.
+| Project | Project |
+|---|---|
+| **[TalentLink](https://github.com/Benjyyy16/ubohub-connect)** · `Public`<br>SaaS connecting university talent with recruiters and real projects.<br>TypeScript · React | **Voltito** · `Private`<br>Product and systems architecture for smarter energy use.<br>Climate-tech · Architecture |
+| **Regatea** · `Private`<br>E-commerce comparison platform deployed on self-managed infrastructure.<br>Full-stack · VPS | **CarWorkChile** · `Hackathon`<br>Driving education experience created with Automóvil Club de Chile.<br>Education · Web |
+| **Odoo API Monitor** · `Private`<br>Health checks, metrics, alerts, and resilient API integrations.<br>Odoo · Python | **Odoo ↔ Bsale Connector** · `Private`<br>Traceable synchronization of business workflows.<br>Odoo · APIs |
 
 ## Currently focused on
 
