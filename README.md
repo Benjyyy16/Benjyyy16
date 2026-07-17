@@ -1,69 +1,59 @@
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> hello, &lt;Users/&gt;! My Name is Benjamin
+# Hi, I'm Benjamin Aguilar 👋
 
-   <img src="https://komarev.com/ghpvc/?username=benjyyy16&style=flat-square&color=blue" alt=""/> </div>  
+### Backend & Odoo Developer · Python · FastAPI · PostgreSQL
 
-   
-<img align="left" height="150" src="https://i.gifer.com/Z5Si.gif"/>
+I build reliable business applications, API integrations, and web platforms. Based in Chile and open to remote opportunities with international teams.
 
-  <!-- Description -->
-  ````diff
-🛠️ +2 años experiencia 
-+  ✔️ Responsible worker.
-!  👨‍💻 computer science student -  Estudiante Ing Informatica
--   💻 Focused Cyber Security
-#  ✨ If you can imagine it, you can program it.
+[![Portfolio](https://img.shields.io/badge/Portfolio-aguilarb.tech-2563EB?style=flat-square)](https://aguilarb.tech)
+[![GitHub](https://img.shields.io/badge/GitHub-Benjyyy16-181717?style=flat-square&logo=github)](https://github.com/Benjyyy16)
 
+## What I work with
 
-!**About Me!**
-I am a Software Engineering student at the Bernardo O'Higgins University.
-I am good at programming languages ​​like Python, Java and others.
-I love learning and creating something new and creative.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-" 👨‍💻I am currently learning...
-+ Cyber ​​Security in the Cloud
-+ Exploiting Web VULNERABILITIES
-🕷️Estoy deseando colaborar en proyectos de código abierto.
+## Featured projects
 
-💻**Outside the computer**💻
-🎯 I like rank max competitive games (fortnite,valorant,csgo.cs2)
-💪🏼 Hybrid athlete I combine 🦍GYM + boxing🥊
+### [UBOHub](https://github.com/Benjyyy16/ubohub-connect)
 
-````
+A TypeScript platform designed to connect students with real-world projects and collaboration opportunities.
 
-<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+### Odoo API Monitor · Private project
 
-- 💻 &nbsp;
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+An Odoo monitoring solution for API health checks, structured logs, metrics, alerts, and resilient integrations.
 
-- ⚙️ &nbsp;
+### Odoo ↔ Bsale Connector · Private project
 
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+An integration that automates synchronization workflows between Odoo and Bsale while keeping business operations traceable.
 
-- 🔧 &nbsp;
-  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+## Currently focused on
 
+- Building maintainable Odoo modules and backend services.
+- Designing secure API integrations with clean observability.
+- Improving cloud deployment, testing, and software architecture skills.
 
-<br/>
+## GitHub activity
 
+![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjyyy16&show_icons=true&hide_border=true&theme=transparent)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjyyy16&layout=compact&hide_border=true&theme=transparent)
 
+<details>
+<summary>🇨🇱 Leer en español</summary>
 
+## Sobre mí
 
+Soy desarrollador backend y Odoo, enfocado en aplicaciones de negocio, integraciones de APIs y plataformas web. Vivo en Chile y estoy disponible para oportunidades remotas con equipos internacionales.
 
+### Proyectos destacados
 
+- **UBOHub:** plataforma TypeScript que conecta estudiantes con proyectos y oportunidades de colaboración.
+- **Odoo API Monitor:** solución privada de monitoreo, métricas, alertas y resiliencia para integraciones.
+- **Conector Odoo ↔ Bsale:** integración privada para automatizar y mantener trazables procesos empresariales.
 
-
-
-
-
-
-
-
+</details>
