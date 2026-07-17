@@ -5,7 +5,7 @@
 I build digital products end to end—from user interfaces and backend services to integrations and cloud deployment. My experience spans SaaS, e-commerce, climate-tech, and educational platforms. Based in Chile and open to remote opportunities worldwide.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aguilarb.tech-2563EB?style=flat-square)](https://aguilarb.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin_Aguilar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://cl.linkedin.com/in/benjamin-aguilar-7631a823a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin_Aguilar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-aguilar-b-847846347/)
 [![GitHub](https://img.shields.io/badge/GitHub-Benjyyy16-181717?style=flat-square&logo=github)](https://github.com/Benjyyy16)
 
 ## What I work with
@@ -97,7 +97,7 @@ An integration that automates synchronization workflows between Odoo and Bsale w
 
 Credential IDs: Meta `UN8MY7Q6DCD6` · IBM `H0MGX1KUC5RN`
 
-[View credentials on LinkedIn](https://cl.linkedin.com/in/benjamin-aguilar-7631a823a)
+[View credentials on LinkedIn](https://www.linkedin.com/in/benjamin-aguilar-b-847846347/)
 
 ## Additional learning
 
