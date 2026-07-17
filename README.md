@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer · Odoo · Cloud Infrastructure
 
-I turn product ideas into working web platforms, covering frontend, backend, integrations, and deployment. My work spans SaaS, e-commerce, climate-tech, and educational products. Based in Chile and open to remote opportunities with international teams.
+I build digital products end to end—from user interfaces and backend services to integrations and cloud deployment. My experience spans SaaS, e-commerce, climate-tech, and educational platforms. Based in Chile and open to remote opportunities worldwide.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aguilarb.tech-2563EB?style=flat-square)](https://aguilarb.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin_Aguilar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://cl.linkedin.com/in/benjamin-aguilar-7631a823a)
@@ -93,7 +93,7 @@ An integration that automates synchronization workflows between Odoo and Bsale w
 
 ## Sobre mí
 
-Soy desarrollador full-stack y estudiante de Ingeniería Informática. Transformo ideas de producto en plataformas web funcionales, cubriendo frontend, backend, integraciones y despliegue. He trabajado en productos SaaS, e-commerce, climate-tech y educación. Vivo en Chile y busco oportunidades remotas internacionales.
+Soy desarrollador full-stack y estudiante de Ingeniería Informática. Creo productos digitales de extremo a extremo: interfaces, servicios backend, integraciones y despliegues en la nube. Tengo experiencia en plataformas SaaS, e-commerce, climate-tech y educación. Desde Chile, estoy abierto a oportunidades remotas globales.
 
 ### Proyectos destacados
 
