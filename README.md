@@ -77,7 +77,29 @@ An integration that automates synchronization workflows between Odoo and Bsale w
 - Designing secure API integrations with clean observability.
 - Improving cloud deployment, testing, and software architecture skills.
 
-## Selected learning
+## Certifications & achievements
+
+| Credential | Issuer | Issued |
+|---|---|---|
+| AWS Academy Graduate — Cloud Foundations | Amazon Web Services | Jul 2026 |
+| Software Development with AI Agents and Kiro Bootcamp | Código Facilito | Jul 2026 |
+| Cisco Networking Academy Learn-A-Thon 2026 | Cisco | Jul 2026 |
+| Networking Basics | Cisco | Jun 2026 |
+| Python Essentials 1 | Cisco | Jun 2026 |
+| Practical Artificial Intelligence Immersion | Daxus Latam | May 2026 |
+| AWS Academy Graduate — Generative AI Foundations | Amazon Web Services | Apr 2026 |
+| Introduction to Modern AI | Cisco | Mar 2026 |
+| 1st Place — Latin American Innovation Rally | Rally Latinoamericano de Innovación | Oct 2025 |
+| Introduction to Front-End Development | Meta | Jul 2025 |
+| Development and Innovation | Universidad Central de Chile | May 2025 |
+| Introduction to Cybersecurity | Cisco | May 2025 |
+| Introduction to Cybersecurity | IBM | Dec 2024 |
+
+Credential IDs: Meta `UN8MY7Q6DCD6` · IBM `H0MGX1KUC5RN`
+
+[View credentials on LinkedIn](https://cl.linkedin.com/in/benjamin-aguilar-7631a823a)
+
+## Additional learning
 
 - Practical Database Design: Responsible Data Solutions with SQL.
 - Web Security: User Authentication and Access Control.
@@ -105,6 +127,8 @@ Soy desarrollador full-stack y estudiante de Ingeniería Informática. Creo prod
 - **Conector Odoo ↔ Bsale:** integración privada para automatizar y mantener trazables procesos empresariales.
 
 ### Formación seleccionada
+
+Mis 13 credenciales y logros incluyen formación en AWS Cloud, IA generativa, agentes con Kiro, redes, Python, frontend, innovación y ciberseguridad. También obtuve el primer lugar en el Rally Latinoamericano de Innovación 2025.
 
 - Diseño responsable de bases de datos y consultas SQL.
 - Seguridad web, autenticación y control de acceso.
