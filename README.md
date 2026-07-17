@@ -15,33 +15,21 @@ I build digital products end to end—from user interfaces and backend services 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
-![Conductor](https://img.shields.io/badge/Conductor-Orchestration-6C47FF?style=flat-square)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-AI-8B5CF6?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Kiro](https://img.shields.io/badge/Kiro-AI_IDE-7C3AED?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-AI_IDE-111827?style=flat-square)
-![Windsurf](https://img.shields.io/badge/Windsurf-AI_IDE-0EA5E9?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-AI-8B5CF6?style=flat-square)
+
+<details>
+<summary>More tools and technologies</summary>
+
+- **Frontend:** JavaScript, HTML, Tailwind CSS.
+- **Cloud & operations:** DigitalOcean, Nginx, Linux, Git, WordPress.
+- **AI & data:** Kiro, Conductor, Cursor, Windsurf, Power BI.
+- **Foundations:** C, C++, Arduino, networking and cybersecurity.
+
+</details>
 
 ## Featured projects
 
@@ -79,6 +67,9 @@ An integration that automates synchronization workflows between Odoo and Bsale w
 
 ## Certifications & achievements
 
+<details>
+<summary>View 13 credentials and achievements</summary>
+
 | Credential | Issuer | Issued |
 |---|---|---|
 | AWS Academy Graduate — Cloud Foundations | Amazon Web Services | Jul 2026 |
@@ -99,16 +90,13 @@ Credential IDs: Meta `UN8MY7Q6DCD6` · IBM `H0MGX1KUC5RN`
 
 [View credentials on LinkedIn](https://www.linkedin.com/in/benjamin-aguilar-b-847846347/)
 
+</details>
+
 ## Additional learning
 
 - Practical Database Design: Responsible Data Solutions with SQL.
 - Web Security: User Authentication and Access Control.
 - Express Essentials: Building Web Applications with Node.js.
-
-## GitHub activity
-
-![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjyyy16&show_icons=true&hide_border=true&theme=transparent)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjyyy16&layout=compact&hide_border=true&theme=transparent)
 
 <details>
 <summary>🇨🇱 Leer en español</summary>
