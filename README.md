@@ -1,6 +1,6 @@
 # Hi, I'm Benjamin Aguilar 👋
 
-### Full-Stack Developer · Odoo · Cloud Infrastructure
+### Full-Stack Developer · Odoo · Cloud Infrastructure · Cybersecurity
 
 I build digital products end to end—from user interfaces and backend services to integrations and cloud deployment. My experience spans SaaS, e-commerce, climate-tech, and educational platforms. Based in Chile and open to remote opportunities worldwide.
 
