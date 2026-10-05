@@ -1,9 +1,9 @@
 <div align="center">
 <a href="https://aguilarb.tech">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
-<source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
-<img src="assets/banner-light.v9.svg" width="960" alt="Benjamin Aguilar — perfil animado en terminal YAML">
+<source media="(prefers-color-scheme: dark)" srcset="assets/banner-tux-green-dark.v10.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/banner-tux-green-light.v10.svg">
+<img src="assets/banner-tux-green-light.v10.svg" width="960" alt="Benjamin Aguilar — perfil animado en terminal YAML">
 </picture>
 </a>
 <br>
