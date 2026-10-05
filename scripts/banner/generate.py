@@ -63,23 +63,23 @@ THEMES = {
         "panel2":  "#101B30",
         "line":    "#25344C",
         "muted":   "#8291A8",
-        "text":    "#F0E6F0",
-        "portrait":"#F78CA0",   # city pop pink
-        "chrome":  "#C9B1D9",   # city pop lavender
-        "accent":  "#F78CA0",
+        "text":    "#ECFDF5",
+        "portrait":"#4ADE80",   # terminal green
+        "chrome":  "#BBF7D0",   # pale green
+        "accent":  "#4ADE80",
         "shadow":  "#02050B",
     },
     "light": {
-        "bg":      "#FDF0F3",
+        "bg":      "#F0FDF4",
         "panel":   "#FFFFFF",
-        "panel2":  "#FDE8EE",
-        "line":    "#F0C0CE",
-        "muted":   "#9B7B8A",
-        "text":    "#2D1A24",
-        "portrait":"#E05F80",
-        "chrome":  "#7B5EA7",
-        "accent":  "#E05F80",
-        "shadow":  "#D4A0B0",
+        "panel2":  "#DCFCE7",
+        "line":    "#BBF7D0",
+        "muted":   "#52705D",
+        "text":    "#143522",
+        "portrait":"#15803D",
+        "chrome":  "#166534",
+        "accent":  "#15803D",
+        "shadow":  "#86EFAC",
     },
 }
 
@@ -182,14 +182,13 @@ def floyd_steinberg(gray: np.ndarray) -> np.ndarray:
 
 def portrait_points(theme: str, rng: np.random.Generator) -> np.ndarray:
     """Return sampled x/y banner coordinates from a 300x340 dither grid."""
-    source = Image.open(SOURCE).convert("RGBA")
-    # Tighter head + shoulders crop so face detail fills the VISUAL.MAP frame.
-    w, h = source.size
-    crop_w = int(w * 0.44)
-    crop_h = int(crop_w * (340 / 300))
-    left = (w - crop_w) // 2
-    top = int(h * 0.44)
-    crop = source.crop((left, top, left + crop_w, top + crop_h)).resize((300, 340), Image.Resampling.LANCZOS)
+    # Tux is the initial particle image and remains visible in static previews.
+    with Image.open(LOGOS / "linux.png") as image:
+        source = normalize_logo(image)
+    crop = ImageOps.contain(source, (300, 340), Image.Resampling.LANCZOS)
+    canvas = Image.new("RGBA", (300, 340), (0, 0, 0, 0))
+    canvas.alpha_composite(crop, ((300 - crop.width) // 2, (340 - crop.height) // 2))
+    crop = canvas
     rgb = crop.convert("RGB")
     alpha = np.asarray(crop.getchannel("A"), dtype=np.float32) / 255.0
 

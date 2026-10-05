@@ -7,9 +7,9 @@
 </picture>
 </a>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Python+-+Odoo+-+IA+-+Cloud+-+Tecnologia" alt="Python · Odoo · IA · Cloud · Tecnología">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=4ADE80&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Python+-+Odoo+-+IA+-+Cloud+-+Tecnologia" alt="Python · Odoo · IA · Cloud · Tecnología">
 <br>
-<img src="https://komarev.com/ghpvc/?username=Benjyyy16&amp;style=flat&amp;color=f78ca0&amp;label=profile+views" alt="Visitas al perfil">
+<img src="https://komarev.com/ghpvc/?username=Benjyyy16&amp;style=flat&amp;color=4ade80&amp;label=profile+views" alt="Visitas al perfil">
 </div>
 
 ## Hola, soy Benjamin 👋
