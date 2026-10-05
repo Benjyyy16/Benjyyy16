@@ -26,9 +26,9 @@ ASSETS = ROOT / "assets"
 LOGOS = Path(__file__).resolve().parent / "logos"
 
 W, H = 1180, 610
-INTRO_SECONDS = 3.2
-TRANSITION_SECONDS = 1.3
-LOGO_HOLD_SECONDS = 4.0
+INTRO_SECONDS = 0.5
+TRANSITION_SECONDS = 0.6
+LOGO_HOLD_SECONDS = 1.4
 TRAVELLER_COUNT = 900
 HOLD_PARTICLE_COUNT = 2_400
 SEED = 314159
@@ -231,7 +231,11 @@ def portrait_points(theme: str, rng: np.random.Generator) -> np.ndarray:
 def logo_silhouette_points(image: Image.Image) -> np.ndarray:
     """Return every visible logo pixel in the portrait frame's coordinate space."""
     alpha = np.asarray(image.getchannel("A"))
-    ys, xs = np.where(alpha > 127)
+    brightness = np.asarray(ImageOps.grayscale(image.convert("RGB")))
+    visible = (alpha > 127) & (brightness > 90)
+    if not visible.any():
+        visible = alpha > 127
+    ys, xs = np.where(visible)
     return np.column_stack((89 + xs * 0.675, 188 + ys * 0.675)).astype(np.float32)
 
 
@@ -322,7 +326,7 @@ def render_svg(
 
     # Three seconds of portrait, then transitions and full-logo holds. Returning
     # to the portrait keeps the loop seamless.
-    times = [0.0, 3.0]
+    times = [0.0, 1.0]
     frames = [source, source]
     for target in targets:
         times.extend((times[-1] + TRANSITION_SECONDS,
@@ -440,7 +444,7 @@ def render_svg(
     intro_ids = rng.integers(0, 60, size=len(portrait))
     order = rng.permutation(60)
     starts = np.empty(60)
-    starts[order] = np.linspace(0.05, 1.2, 60)
+    starts[order] = np.linspace(0.02, 0.2, 60)
     for group in range(60):
         pts = portrait[intro_ids == group]
         if not len(pts):
@@ -448,9 +452,9 @@ def render_svg(
         parts.append(
             f'<path d="{point_path(pts)}" fill="none" stroke="{t["portrait"]}" '
             'stroke-width="1" opacity="0">'
-            f'<animate attributeName="opacity" begin="{num(starts[group])}s" dur=".8s" '
+            f'<animate attributeName="opacity" begin="{num(starts[group])}s" dur=".2s" '
             'values="0;1" fill="freeze"/>'
-            '<animate attributeName="opacity" begin="3.08s" dur=".12s" values="1;0" fill="freeze"/>'
+            '<animate attributeName="opacity" begin=".4s" dur=".1s" values="1;0" fill="freeze"/>'
             "</path>"
         )
     parts.extend(
@@ -545,7 +549,7 @@ def main() -> None:
             for name, image in logos.items()
         }
         svg = render_svg(theme, portraits[theme], sampled, hold_particles, rng)
-        output = ASSETS / f"banner-tux-mac-green-{theme}.v13.svg"
+        output = ASSETS / f"banner-tux-mac-green-{theme}.v14.svg"
         output.write_text(svg, encoding="utf-8")
         byte_size = output.stat().st_size
         print(
