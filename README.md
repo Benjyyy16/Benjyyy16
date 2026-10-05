@@ -74,32 +74,3 @@ Credential IDs: Meta `UN8MY7Q6DCD6` · IBM `H0MGX1KUC5RN`
 </details>
 
 
-## Mi mapa de enfoque
-
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-<img src="assets/radar-light.svg" width="420" alt="Áreas de interés">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-<img src="assets/radar-langs-light.svg" width="420" alt="Stack de trabajo">
-</picture>
-</p>
-
-*Los radares muestran áreas de enfoque; no son puntuaciones de dominio.*
-
-[GitHub](https://github.com/Benjyyy16) · [LinkedIn](https://www.linkedin.com/in/benjamin-aguilar-b-847846347/) · [Portafolio](https://aguilarb.tech)
-
-## Regenerar gráficos
-
-```bash
-python3 scripts/banner/personalize.py
-python3 scripts/radar.py --data assets/skills.json -o assets/radar
-python3 scripts/radar.py --data assets/langmix.json -o assets/radar-langs
-```
-
-Banner propio sin dependencias. [Generador animado original](https://github.com/Benjyyy16/macu-dev/blob/master/scripts/banner/generate.py) disponible en el fork como referencia.
-
----
-Basado en [macu-dev/macu-dev](https://github.com/macu-dev/macu-dev). Personalizado para Benjamin Aguilar.
