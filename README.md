@@ -99,7 +99,7 @@ python3 scripts/radar.py --data assets/skills.json -o assets/radar
 python3 scripts/radar.py --data assets/langmix.json -o assets/radar-langs
 ```
 
-Banner propio sin dependencias. Generador animado original conservado en `scripts/banner/generate.py` como referencia.
+Banner propio sin dependencias. [Generador animado original](https://github.com/Benjyyy16/macu-dev/blob/master/scripts/banner/generate.py) disponible en el fork como referencia.
 
 ---
 Basado en [macu-dev/macu-dev](https://github.com/macu-dev/macu-dev). Personalizado para Benjamin Aguilar.
