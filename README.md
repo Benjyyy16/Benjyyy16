@@ -1,9 +1,9 @@
 <div align="center">
 <a href="https://aguilarb.tech">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/banner-tux-green-dark.v10.svg">
-<source media="(prefers-color-scheme: light)" srcset="assets/banner-tux-green-light.v10.svg">
-<img src="assets/banner-tux-green-light.v10.svg" width="960" alt="Benjamin Aguilar — perfil animado en terminal YAML">
+<source media="(prefers-color-scheme: dark)" srcset="assets/banner-tux-green-dark.v11.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/banner-tux-green-light.v11.svg">
+<img src="assets/banner-tux-green-light.v11.svg" width="960" alt="Benjamin Aguilar — perfil animado en terminal YAML">
 </picture>
 </a>
 <br>
@@ -14,70 +14,28 @@
 
 ## Hola, soy Benjamin 👋
 
-Desarrollador Full Stack y estudiante de **Ingeniería Informática**. Especializado en **Odoo y FastAPI**, con experiencia en despliegues AWS, Docker e integración de modelos OpenAI.
-Mis pilares: **Cloud Computing · Inteligencia Artificial · Ciberseguridad**.
+**Software Developer · AI Product Builder · Estudiante de Ingeniería Informática 🇨🇱**
 
-[🌐 Portafolio](https://aguilarb.tech) · [GitHub](https://github.com/Benjyyy16)
+Construyo soluciones para problemas reales de negocio: desarrollo backend, ERP/CRM en producción, integraciones, cloud e inteligencia artificial.
 
-## Stack
+Trabajo con **Odoo, Python y FastAPI**, desarrollando y manteniendo sistemas empresariales, APIs e integraciones con plataformas de facturación electrónica y el **SII de Chile**. Esta experiencia incluye entender requerimientos, resolver incidentes, trabajar con datos y mantener servicios utilizados en operaciones diarias.
 
-| Área | Tecnologías |
+Integro IA en mi flujo de ingeniería con **ChatGPT, Claude y Conductor** para arquitectura, análisis de código, automatización, documentación y prototipado. La uso como complemento del conocimiento técnico y la comprensión del software.
+
+Actualmente profundizo en **arquitectura y seguridad AWS, Cloud & DevOps, Docker y Kubernetes**. Me interesan el desarrollo seguro, la seguridad de aplicaciones y **DevSecOps**. Fuera del trabajo y la universidad, construyo productos y convierto lo que aprendo en soluciones útiles.
+
+**Build. Learn. Deploy. Repeat.**
+
+## Stack y herramientas
+
+| Área | Tecnologías y prácticas |
 | --- | --- |
-| Backend / ERP | Python · FastAPI · Odoo · Node.js · PostgreSQL |
-| Frontend | React · Next.js · TypeScript |
-| Cloud / DevOps | AWS · Docker · Linux · Git |
-| IA | OpenAI · Agentes · RAG · Tool Calling · Prompt Engineering |
-
-## Proyectos destacados
-
-| Proyecto | Enfoque |
-| --- | --- |
-| [Baodoo](https://baodoo.cl) | Desarrollo principal e integración de módulos Odoo |
-| [Datgent](https://hackatondatgent.vercel.app) | Agentes especializados; hackathon Código Facilito |
-| [UBO HUB Connect](https://ubohub-connect.vercel.app) | Colaboración académica y proyectos reales |
-| [Regatea](https://regatea.vercel.app) | Interacción y gestión de ofertas |
-| Benjyy · privado | Soporte automatizado en WhatsApp |
-| Automatización de Correos · privado | Clasificación y respuestas con IA |
-| Optimización Energética COPEC · privado | Automatización y monitoreo energético |
-
-## Logros
-
-- **1.er lugar:** Rally Latinoamericano de Innovación.
-- **4.º lugar:** Hackathon CarWorkChile; IA para formación de conductores.
-
-Detalles y otros proyectos en [mi portafolio](https://aguilarb.tech).
-
-## Más proyectos
-
-- **Voltito:** arquitectura de producto para optimización energética.
-- **Odoo API Monitor:** monitoreo de APIs, métricas, alertas e integraciones resilientes.
-- **Conector Odoo ↔ Bsale:** sincronización de procesos empresariales con trazabilidad.
-
-## Certificaciones y formación
-
-<details>
-<summary>Ver 13 credenciales y logros</summary>
-
-| Credential | Issuer | Issued |
-|---|---|---|
-| AWS Academy Graduate — Cloud Foundations | Amazon Web Services | Jul 2026 |
-| Software Development with AI Agents and Kiro Bootcamp | Código Facilito | Jul 2026 |
-| Cisco Networking Academy Learn-A-Thon 2026 | Cisco | Jul 2026 |
-| Networking Basics | Cisco | Jun 2026 |
-| Python Essentials 1 | Cisco | Jun 2026 |
-| Practical Artificial Intelligence Immersion | Daxus Latam | May 2026 |
-| AWS Academy Graduate — Generative AI Foundations | Amazon Web Services | Apr 2026 |
-| Introduction to Modern AI | Cisco | Mar 2026 |
-| 1st Place — Latin American Innovation Rally | Rally Latinoamericano de Innovación | Oct 2025 |
-| Introduction to Front-End Development | Meta | Jul 2025 |
-| Development and Innovation | Universidad Central de Chile | May 2025 |
-| Introduction to Cybersecurity | Cisco | May 2025 |
-| Introduction to Cybersecurity | IBM | Dec 2024 |
-
-Credential IDs: Meta `UN8MY7Q6DCD6` · IBM `H0MGX1KUC5RN`
-
-[Ver credenciales en LinkedIn](https://www.linkedin.com/in/benjamin-aguilar-b-847846347/)
-
-</details>
-
-
+| Backend | Python · FastAPI · Node.js · REST APIs |
+| ERP / CRM e integraciones | Odoo · PostgreSQL · XML · ERP/CRM · Facturación electrónica · Integraciones SII |
+| Frontend | React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS |
+| Datos y plataformas | PostgreSQL · SQL · Supabase · Vercel |
+| Cloud y DevOps | AWS · Docker · Linux · Git · GitHub · CI/CD · Infraestructura como código |
+| IA y automatización | OpenAI · LLM · Agentes · RAG · Tool Calling · Prompt Engineering · WhatsApp API |
+| Desarrollo asistido por IA | ChatGPT · Claude · Conductor · Cursor · VS Code |
+| Seguridad | Ciberseguridad · DevSecOps · Seguridad de aplicaciones · Redes · Fundamentos de ethical hacking |
+| En formación | AWS Cloud Architecture · Cloud Security · Kubernetes |

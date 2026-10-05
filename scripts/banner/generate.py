@@ -39,17 +39,17 @@ PREFERRED_LOGO_ORDER = ("linux", "kubernetes")
 YAML_ROWS = [
     (0, "profile", ""),
     (1, "subject", "Benjamin Aguilar"),
-    (1, "role", "Full Stack Developer"),
+    (1, "role", "Software Developer"),
     (1, "origin", "Chile"),
-    (1, "focus", "Cloud · IA · Ciberseguridad"),
+    (1, "focus", "ERP/CRM · IA · DevSecOps"),
     (1, "status", "Estudiante de Ing. Informatica"),
-    (1, "toolchain", "Python · FastAPI · Odoo"),
+    (1, "toolchain", "Odoo · FastAPI · SII"),
     (0, "stack", ""),
-    (1, "cloud", "AWS"),
+    (1, "cloud", "AWS · Cloud Security"),
     (1, "containers", "Docker · Linux"),
     (1, "frontend", "React · Next.js · TypeScript"),
     (1, "backend", "Odoo · FastAPI · PostgreSQL"),
-    (1, "automation", "OpenAI · Agentes · APIs"),
+    (1, "automation", "OpenAI · Agentes · REST APIs"),
     (0, "contact", ""),
     (1, "portfolio", "aguilarb.tech"),
     (1, "github", "Benjyyy16"),
@@ -544,7 +544,7 @@ def main() -> None:
             for name, image in logos.items()
         }
         svg = render_svg(theme, portraits[theme], sampled, hold_particles, rng)
-        output = ASSETS / f"banner-tux-green-{theme}.v10.svg"
+        output = ASSETS / f"banner-tux-green-{theme}.v11.svg"
         output.write_text(svg, encoding="utf-8")
         byte_size = output.stat().st_size
         print(
