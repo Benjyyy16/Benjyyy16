@@ -1,4 +1,35 @@
 <div align="center">
+
+<!-- LOCAL CITY-POP BANNER -->
+<a href="https://github.com/Benjyyy16">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
+    <img src="assets/banner-light.v9.svg" width="960" alt="Perfil DevOps de Benjamin Aguilar">
+  </picture>
+</a>
+
+<br>
+
+<a href="https://github.com/Benjyyy16">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Maria+Claudia+%E2%80%94+DevOps+Engineer%3BInfrastructure+as+Code+%7C+CI%2FCD+%7C+Cloud+Native%3BContainers+%E2%80%A2+Kubernetes+%E2%80%A2+Observability%3BCafe+-+Programming+--+Vibe+-+Chill+-+Tecnologia" alt="Banner animado con perfil DevOps">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=macu-dev&style=flat&color=f78ca0&label=profile+views" alt="profile views">
+
+</div>
+
+---
+
+
+
+
+
+
+
+
+
+<div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
 <img src="assets/banner-light.svg" width="100%" alt="Benjamin Aguilar — Python, Odoo y automatización">
