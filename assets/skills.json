@@ -1,0 +1,30 @@
+{
+  "title": "Áreas de interés",
+  "_comment": "Presencia temática; no representa dominio.",
+  "axes": [
+    {
+      "label": "Automatización",
+      "value": 100
+    },
+    {
+      "label": "IA y agentes",
+      "value": 100
+    },
+    {
+      "label": "Ciberseguridad",
+      "value": 100
+    },
+    {
+      "label": "DevOps",
+      "value": 100
+    },
+    {
+      "label": "Cloud",
+      "value": 100
+    },
+    {
+      "label": "Arquitectura",
+      "value": 100
+    }
+  ]
+}

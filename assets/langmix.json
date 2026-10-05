@@ -1,0 +1,30 @@
+{
+  "title": "Stack de trabajo",
+  "_comment": "Presencia temática; no representa dominio.",
+  "axes": [
+    {
+      "label": "Python / FastAPI",
+      "value": 100
+    },
+    {
+      "label": "Odoo / ERP",
+      "value": 100
+    },
+    {
+      "label": "React / Next.js",
+      "value": 100
+    },
+    {
+      "label": "AWS / Docker",
+      "value": 100
+    },
+    {
+      "label": "OpenAI / Agentes",
+      "value": 100
+    },
+    {
+      "label": "TypeScript",
+      "value": 100
+    }
+  ]
+}

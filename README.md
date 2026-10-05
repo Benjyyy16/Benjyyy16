@@ -1,86 +1,55 @@
-# Hi, I'm Benjamin Aguilar 👋💻🤓
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+<img src="assets/banner-light.svg" width="100%" alt="Benjamin Aguilar — Python, Odoo y automatización">
+</picture>
+</div>
 
-### Full-Stack Developer · Odoo · Cloud Infrastructure · Cybersecurity
+## Hola, soy Benjamin 👋
 
-I build digital products end to end—from user interfaces and backend services to integrations and cloud deployment. My experience spans SaaS, e-commerce, climate-tech, and educational platforms. Based in Chile and open to remote opportunities worldwide.
+Desarrollador Full Stack y estudiante de **Ingeniería Informática**. Especializado en **Odoo y FastAPI**, con experiencia en despliegues AWS, Docker e integración de modelos OpenAI.
+Mis pilares: **Cloud Computing · Inteligencia Artificial · Ciberseguridad**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aguilarb.tech-2563EB?style=flat-square)](https://aguilarb.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin_Aguilar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-aguilar-b-847846347/)
-[![GitHub](https://img.shields.io/badge/GitHub-Benjyyy16-181717?style=flat-square&logo=github)](https://github.com/Benjyyy16)
+[🌐 Portafolio](https://aguilarb.tech) · [GitHub](https://github.com/Benjyyy16)
 
-## What I work with
+## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-AI-8B5CF6?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Kiro](https://img.shields.io/badge/Kiro-AI_IDE-7C3AED?style=flat-square)
-![Conductor](https://img.shields.io/badge/Conductor-Orchestration-6C47FF?style=flat-square)
-![Cursor](https://img.shields.io/badge/Cursor-AI_IDE-111827?style=flat-square)
-![Windsurf](https://img.shields.io/badge/Windsurf-AI_IDE-0EA5E9?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
+| Área | Tecnologías |
+| --- | --- |
+| Backend / ERP | Python · FastAPI · Odoo · Node.js · PostgreSQL |
+| Frontend | React · Next.js · TypeScript |
+| Cloud / DevOps | AWS · Docker · Linux · Git |
+| IA | OpenAI · Agentes · RAG · Tool Calling · Prompt Engineering |
 
-## Featured projects
+## Proyectos destacados
 
-### [TalentLink (UBOHub Connect)](https://github.com/Benjyyy16/ubohub-connect)
+| Proyecto | Enfoque |
+| --- | --- |
+| [Baodoo](https://baodoo.cl) | Desarrollo principal e integración de módulos Odoo |
+| [Datgent](https://hackatondatgent.vercel.app) | Agentes especializados; hackathon Código Facilito |
+| [UBO HUB Connect](https://ubohub-connect.vercel.app) | Colaboración académica y proyectos reales |
+| [Regatea](https://regatea.vercel.app) | Interacción y gestión de ofertas |
+| Benjyy · privado | Soporte automatizado en WhatsApp |
+| Automatización de Correos · privado | Clasificación y respuestas con IA |
+| Optimización Energética COPEC · privado | Automatización y monitoreo energético |
 
-A SaaS product that helps students showcase their talent and connect with recruiters through real project opportunities.
+## Logros
 
-### Voltito · Private project
+- **1.er lugar:** Rally Latinoamericano de Innovación.
+- **4.º lugar:** Hackathon CarWorkChile; IA para formación de conductores.
 
-Product and systems architecture for a climate-tech platform centered on smarter energy use.
+Detalles y otros proyectos en [mi portafolio](https://aguilarb.tech).
 
-### Regatea · Private project
+## Más proyectos
 
-An e-commerce comparison platform taken from development to production on self-managed web infrastructure.
+- **Voltito:** arquitectura de producto para optimización energética.
+- **Odoo API Monitor:** monitoreo de APIs, métricas, alertas e integraciones resilientes.
+- **Conector Odoo ↔ Bsale:** sincronización de procesos empresariales con trazabilidad.
 
-### CarWorkChile · Hackathon project
-
-A driving education experience created during a hackathon with Automóvil Club de Chile.
-
-### Odoo API Monitor · Private project
-
-An Odoo monitoring solution for API health checks, structured logs, metrics, alerts, and resilient integrations.
-
-### Odoo ↔ Bsale Connector · Private project
-
-An integration that automates synchronization workflows between Odoo and Bsale while keeping business operations traceable.
-
-## Currently focused on
-
-- Building maintainable Odoo modules and backend services.
-- Designing scalable SaaS and cloud architectures.
-- Deploying applications on VPS infrastructure with Nginx and DigitalOcean.
-- Designing secure API integrations with clean observability.
-- Improving cloud deployment, testing, and software architecture skills.
-
-## Certifications & achievements
+## Certificaciones y formación
 
 <details>
-<summary>View 13 credentials and achievements</summary>
+<summary>Ver 13 credenciales y logros</summary>
 
 | Credential | Issuer | Issued |
 |---|---|---|
@@ -100,38 +69,37 @@ An integration that automates synchronization workflows between Odoo and Bsale w
 
 Credential IDs: Meta `UN8MY7Q6DCD6` · IBM `H0MGX1KUC5RN`
 
-[View credentials on LinkedIn](https://www.linkedin.com/in/benjamin-aguilar-b-847846347/)
+[Ver credenciales en LinkedIn](https://www.linkedin.com/in/benjamin-aguilar-b-847846347/)
 
 </details>
 
-## Additional learning
 
-- Practical Database Design: Responsible Data Solutions with SQL.
-- Web Security: User Authentication and Access Control.
-- Express Essentials: Building Web Applications with Node.js.
+## Mi mapa de enfoque
 
-<details>
-<summary>🇨🇱 Leer en español</summary>
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+<img src="assets/radar-light.svg" width="420" alt="Áreas de interés">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+<img src="assets/radar-langs-light.svg" width="420" alt="Stack de trabajo">
+</picture>
+</p>
 
-## Sobre mí
+*Los radares muestran áreas de enfoque; no son puntuaciones de dominio.*
 
-Soy desarrollador full-stack y estudiante de Ingeniería Informática. Creo productos digitales de extremo a extremo: interfaces, servicios backend, integraciones y despliegues en la nube. Tengo experiencia en plataformas SaaS, e-commerce, climate-tech y educación. Desde Chile, estoy abierto a oportunidades remotas globales.
+[GitHub](https://github.com/Benjyyy16) · [LinkedIn](https://www.linkedin.com/in/benjamin-aguilar-b-847846347/) · [Portafolio](https://aguilarb.tech)
 
-### Proyectos destacados
+## Regenerar gráficos
 
-- **TalentLink:** conecta talento universitario con reclutadores mediante proyectos reales.
-- **Voltito:** arquitectura de producto para optimizar el uso de energía.
-- **Regatea:** comparador e-commerce llevado desde desarrollo hasta producción.
-- **CarWorkChile:** experiencia educativa creada en un hackathon de conducción.
-- **Odoo API Monitor:** solución privada de monitoreo, métricas, alertas y resiliencia para integraciones.
-- **Conector Odoo ↔ Bsale:** integración privada para automatizar y mantener trazables procesos empresariales.
+```bash
+python3 scripts/banner/personalize.py
+python3 scripts/radar.py --data assets/skills.json -o assets/radar
+python3 scripts/radar.py --data assets/langmix.json -o assets/radar-langs
+```
 
-### Formación seleccionada
+Banner propio sin dependencias. Generador animado original conservado en `scripts/banner/generate.py` como referencia.
 
-Mis 13 credenciales y logros incluyen formación en AWS Cloud, IA generativa, agentes con Kiro, redes, Python, frontend, innovación y ciberseguridad. También obtuve el primer lugar en el Rally Latinoamericano de Innovación 2025.
-
-- Diseño responsable de bases de datos y consultas SQL.
-- Seguridad web, autenticación y control de acceso.
-- Desarrollo de aplicaciones web con Express y Node.js.
-
-</details>
+---
+Basado en [macu-dev/macu-dev](https://github.com/macu-dev/macu-dev). Personalizado para Benjamin Aguilar.
