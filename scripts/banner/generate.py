@@ -34,7 +34,7 @@ HOLD_PARTICLE_COUNT = 2_400
 SEED = 314159
 LOGO_SUFFIXES = {".png", ".webp"}
 LOGO_ALIASES = {"kube": "kubernetes"}
-PREFERRED_LOGO_ORDER = ("macbook", "kubernetes")
+PREFERRED_LOGO_ORDER = ("linux", "macbook")
 
 YAML_ROWS = [
     (0, "profile", ""),
@@ -136,7 +136,7 @@ def load_logo_files() -> dict[str, Image.Image]:
     loaded: dict[str, Image.Image] = {}
     for path in sorted(LOGOS.iterdir()):
         if (not path.is_file() or path.suffix.lower() not in LOGO_SUFFIXES
-                or path.stem.lower() not in {"macbook", "kube"}):
+                or path.stem.lower() not in {"linux", "macbook"}):
             continue
         name = LOGO_ALIASES.get(path.stem.lower(), path.stem.lower())
         with Image.open(path) as image:
@@ -183,8 +183,8 @@ def floyd_steinberg(gray: np.ndarray) -> np.ndarray:
 
 def portrait_points(theme: str, rng: np.random.Generator) -> np.ndarray:
     """Return sampled x/y banner coordinates from a 300x340 dither grid."""
-    # MacBook is the initial particle image and remains visible in static previews.
-    with Image.open(LOGOS / "macbook.png") as image:
+    # Tux is the initial particle image and remains visible in static previews.
+    with Image.open(LOGOS / "linux.png") as image:
         source = normalize_logo(image)
     crop = ImageOps.contain(source, (300, 340), Image.Resampling.LANCZOS)
     canvas = Image.new("RGBA", (300, 340), (0, 0, 0, 0))
@@ -545,7 +545,7 @@ def main() -> None:
             for name, image in logos.items()
         }
         svg = render_svg(theme, portraits[theme], sampled, hold_particles, rng)
-        output = ASSETS / f"banner-mac-green-{theme}.v12.svg"
+        output = ASSETS / f"banner-tux-mac-green-{theme}.v13.svg"
         output.write_text(svg, encoding="utf-8")
         byte_size = output.stat().st_size
         print(
